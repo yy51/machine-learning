@@ -5,7 +5,8 @@
 - オプティマイザと損失関数以外は全て同じ条件
 
 ### レイヤー構成
-- テンサーフローのチュートリアル(https://www.tensorflow.org/tutorials/images/cnn)でのレイヤーを利用
+- テンサーフローのチュートリアルでのレイヤーを利用
+- https://www.tensorflow.org/tutorials/images/cnn
 
 ### データセット
 - mnist
