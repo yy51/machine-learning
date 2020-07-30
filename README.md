@@ -10,3 +10,12 @@
 
 ### データセット
 - mnist
+
+# adam_vs_sgd2
+- adam_vs_sgdから、データセットのみを変更して学習を行った．
+
+### レイヤー構成
+- adam_vs_sgdと同じ
+
+### データセット
+- fashion-mnist
